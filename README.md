@@ -1,2 +1,2 @@
 # LoggingSystem-
-This is loggign System using Node
+Practice of Typescript and Project practice
